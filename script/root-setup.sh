@@ -30,11 +30,10 @@ apt upgrade -y
 echo ""
 echo "Manual steps"
 echo "    - Install LiterationMono Nerd Font and set as terminal font"
-echo "    - Add a recent nnn to ~/bin (https://github.com/jarun/nnn)"
+echo "    - Add a recent lf to ~/bin (https://github.com/gokcehan/lf)"
 echo "    - Add a recent fzf to ~/bin (https://github.com/junegunn/fzf)"
 echo "    - Add a recent gitui to ~/bin (https://github.com/gitui-org/gitui)"
 echo "    - Install Vivaldi (https://vivaldi.com)"
 echo "    - Install Veracrypt (https://veracrypt.io/en/Downloads.html)"
 echo "    - Consider installing a recent .NET runtime (https://learn.microsoft.com/en-gb/dotnet/core/install/linux-debian)"
 echo "    - If still using a Corsair mouse, install ckb-next (and change the CapsLock mapping to Shift)
-
