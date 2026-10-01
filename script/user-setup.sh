@@ -10,7 +10,7 @@ xdg-user-dirs-update --set DOWNLOAD $HOME/incoming
 xdg-user-dirs-update --set DOCUMENTS $HOME/self
 xdg-user-dirs-update --set MUSIC $HOME/media/music
 xdg-user-dirs-update --set PICTURES $HOME/media/pictures
-xdg-user-dirs-update --set VIDEOS $HOME/media/clips
+xdg-user-dirs-update --set VIDEOS $HOME/media/video
 
 mkdir $HOME/bin
 ln -s /bin/fdfind $HOME/bin/fd
